@@ -1,0 +1,1 @@
+Joseph Roeder interactive resume. Home: index.html; work experience: work-experience.html; projects: projects.html. Upload all files and the assets folder together to GitHub Pages. Logo source URLs are recorded in assets/sources.txt. This is still a local draft. Headshot and FEA logo supplied by the owner.

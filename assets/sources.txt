@@ -1,0 +1,9 @@
+hca.png https://hcahealthcare.com/contentAsset/raw-data/f430917e-9fa1-4f1a-8dc7-d652c0b00e71/fullColorLogo
+island-fin.webp https://www.islandfinpoke.com/wp-content/uploads/2023/10/cropped-ifp-header-logo.webp
+fea.png https://feaweb.org/wp-content/uploads/2025/01/fea-logo-wide.png
+golden-eagle.png https://www.goldeneaglecc.org/wp-content/uploads/sites/9093/2023/07/cropped-logo.png
+chick-fil-a.svg https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/04/Chick-fil-A-header-logo.svg
+hca.png https://brandresourcecenter.hcahealthcare.com/assets/HCA-2020-EB-HCA-Healthcare-FC.png
+
+fea.png: replaced with user-supplied FEA logo.
+joseph-roeder-headshot.png: user-supplied portrait.
